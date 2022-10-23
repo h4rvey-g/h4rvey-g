@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babaolanqiu
 - 👀 I’m interested in Bioinformatic Science.
-- 🌱 I’m currently learning R and Python.
+- 🌱 I’m currently learning R and Python, maybe Rust!
 - 💞️ I’m looking to collaborate on cool stuff!
 - 📫 How to reach me: babaolanqiu@gmail.com
 
